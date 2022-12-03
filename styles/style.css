@@ -2,7 +2,7 @@ body {
     background-color: aliceblue;
 }
 
-#console-box{
+#console-box {
     position:relative;
     height:300px;
     width:40%;
@@ -16,3 +16,7 @@ body {
     border: 2px solid #161616;
     font-size: 14px;
   }
+
+p {
+    font-weight: 200;
+}
